@@ -12,9 +12,9 @@
 
 <br/>
 
-[![LinkedIn](https://www.linkedin.com/in/elsa-rab%C3%A9-aa68903a6/)](LIEN_LINKEDIN)
-[![Portfolio](https://vercel.com/elsa-rabe/rabe_elsa_portfolio/6rgZDhh3SEe5JCzBcgijkvBnXGdA)](LIEN_PORTFOLIO)
-[![Email](re.rabeelsa@gmail.com)](mailto:EMAIL_ICI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsa-rab%C3%A9-aa68903a6/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vercel.com/elsa-rabe/rabe_elsa_portfolio/6rgZDhh3SEe5JCzBcgijkvBnXGdA)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:re.rabeelsa@gmail.com)
 
 </div>
 
