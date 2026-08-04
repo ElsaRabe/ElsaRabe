@@ -62,10 +62,20 @@ J'aime comprendre le "pourquoi" derrière les chiffres : identifier des tendance
 
 ##  Featured Projects
 
+
+###  Détection & Traduction de la Langue des Signes en Temps Réel
+Système de vision par ordinateur permettant de capturer le flux vidéo d'une webcam, de détecter l'anatomie de la main et de traduire la dactylologie et les signes de la LSF en texte français instantanément.
+
+`Python`  `OpenCV`  `MediaPipe`  `CVZone`  `Computer Vision`
+
+[Voir le projet →]
+
+---
+
 ###  Analyse Exploratoire de Données — E-commerce
 Analyse du comportement d'achat sur une plateforme de vente en ligne : produits les plus vendus et rachetés, habitudes d'achat des clients, pics d'activité par jour/heure, et recommandations commerciales et logistiques.
 
-`Python` · `Pandas` · `Matplotlib` · `Seaborn` · `Power BI`
+`Python`  `Pandas`  `Matplotlib`  `Seaborn`  `Power BI`
 
 [Voir le projet →](LIEN_GITHUB)
 
@@ -74,7 +84,7 @@ Analyse du comportement d'achat sur une plateforme de vente en ligne : produits 
 ###  Topic Modeling & NLP — Corpus de 52 livres
 Identification automatique des thématiques dominantes d'un corpus de 52 livres anglophones, et conception d'un système de recommandation de livres similaires basé sur la similarité de contenu.
 
-`Python` · `NLTK` · `Scikit-Learn` · `TF-IDF` · `LSA` · `Similarité cosinus`
+`Python`  `NLTK`  `Scikit-Learn`  `TF-IDF`  `LSA`  `Similarité cosinus`
 
 [Voir le projet →](LIEN_GITHUB)
 
@@ -83,7 +93,7 @@ Identification automatique des thématiques dominantes d'un corpus de 52 livres 
 ###  CrediVer — Système de scoring ESG *(projet d'étude, hackathon)*
 Travail de recherche et de conception d'un système de notation ESG pour PME : recherches documentaires, entretiens, collecte et structuration de données, définition de critères ESG. *Projet non développé jusqu'à une version applicative finale.*
 
-`Recherche` · `ESG` · `Conception de système de scoring`
+`Recherche`  `ESG`  `Conception de système de scoring`
 
 [Voir le projet →](LIEN_GITHUB)
 
