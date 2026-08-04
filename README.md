@@ -68,7 +68,7 @@ Système de vision par ordinateur permettant de capturer le flux vidéo d'une we
 
 `Python`  `OpenCV`  `MediaPipe`  `CVZone`  `Computer Vision`
 
-[Voir le projet →]
+[Voir le projet →](LIEN_GITHUB)
 
 ---
 
