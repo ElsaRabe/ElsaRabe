@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Elsa Rabé
-### Data Analyst en formation · Basée à Abidjan, Côte d'Ivoire
+### Data Analyst - Basée à Abidjan, Côte d'Ivoire
 
 *Je transforme des données brutes en informations exploitables.*
 
@@ -15,7 +15,7 @@
 
 ## Mon approche
 
-J'aime comprendre le "pourquoi" derrière les chiffres : identifier des tendances, structurer une base de données messy, et transformer une analyse en recommandation concrète. Je m'appuie sur Python et SQL pour explorer les données, et sur Power BI pour les rendre lisibles à des personnes non techniques.
+J'aime comprendre le "pourquoi" derrière les chiffres : identifier des tendances, transformer une analyse en recommandation concrète. Je m'appuie sur Python et SQL pour explorer les données, et sur Power BI pour les rendre lisibles à des personnes non techniques.
 
 Actuellement en L2 Développement d'Applications et Services (DAS) à l'UVCI, et formée à la Data & l'IA via le programme We.Code (Epitech × GIZ, janvier – juillet 2026).
 
