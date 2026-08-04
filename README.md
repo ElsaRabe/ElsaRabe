@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNIÈRE ANIMÉE -->
-![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=200&section=header&text=Hi%20there,%20I'm%20Elsa%20Rabé%20👋&fontSize=42&fontColor=ffffff&animation=twinkling)
+![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=200&section=header&text=Hi%20there,%20I'm%20Elsa%20Rabé%20&fontSize=42&fontColor=ffffff&animation=twinkling)
 
 <!-- TEXTE DYNAMIQUE EFFET MACHINE À ÉCRIRE -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Data+Analyst;Passionate+about+Data+%26+AI;Building+impactful+solutions)](https://git.io/typing-svg)
