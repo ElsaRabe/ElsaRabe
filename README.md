@@ -30,7 +30,7 @@
 
 J'aime comprendre le "pourquoi" derrière les chiffres : identifier des tendances, transformer une analyse en recommandation concrète. Je m'appuie sur **Python** et **SQL** pour explorer les données, et sur **Power BI** pour les rendre lisibles à des personnes non techniques.
 
- Actuellement en **L2 Développement d'Applications et Services (DAS)** à l'UVCI, et formée à la **Data & l'IA** via le programme *We.Code (Epitech × GIZ, janvier – juillet 2026)*.
+ Actuellement en **L3 Développement d'Applications et Services (DAS)** à l'UVCI, et formée à la **Data & l'IA** via le programme *We.Code (Epitech × GIZ, janvier – juillet 2026)*.
 
 ---
 
